@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\wamp64\www\mygametime\funcionalidadEsdras.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\wamp64\www\mygametime\funcionalidades\bootstrap\card.html"/>
+  <file name="C:\wamp64\www\mygametime\funcionalidades\bootstrap\progressbar.html"/>
+  <file name="C:\wamp64\www\mygametime\funcionalidades\bootstrap\alerts.html"/>
+  <file name="C:\wamp64\www\mygametime\funcionalidades\bootstrap\pagination.html"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\wamp64\www\mygametime\funcionalidades\bootstrap\progressbar.html" crc="1629449225909"/>
+  <file name="C:\wamp64\www\mygametime\funcionalidades\bootstrap\pagination.html" crc="1629449193919"/>
+  <file name="C:\wamp64\www\mygametime\funcionalidades\bootstrap\card.html" crc="1629452058786"/>
+  <file name="C:\wamp64\www\mygametime\funcionalidades\bootstrap\alerts.html" crc="1629447018741"/>
+ </filescache>
+</project>
